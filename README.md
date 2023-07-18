@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **sherisherilu@gmail.com** 📧
 
-<img align="center" src="https://github.com/sherimin/sherimin/blob/main/developer-pic.jpg" height="100" width="100" />
+<img align="center" src="https://github.com/sherimin/sherimin/blob/main/developer-pic.jpg" height="180" width="180" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
