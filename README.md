@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Sheri Lu</h1>
 <h3 align="center">✨ A former paralegal turned tech enthusiast ✨</h3>
 
+- 🌍 Check out my portfolio website! ➡️ [sherilu.com](https://www.sherilu.com) 🎉
 - 📫 How to reach me **sherisherilu@gmail.com** 📧
 
 <img align="center" src="https://github.com/sherimin/sherimin/blob/main/developer-pic.jpg" height="180" width="180" />
