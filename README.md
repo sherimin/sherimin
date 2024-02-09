@@ -59,5 +59,13 @@ Version Control
 
 <hr/>
 
+<h2 align="center">✅ My Contributions ✅</h2>
+
+<div align="center">
+  <img alt="a snake eating my contributions" src="https://raw.githubusercontent.com/sherimin/sherimin/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
 
 
